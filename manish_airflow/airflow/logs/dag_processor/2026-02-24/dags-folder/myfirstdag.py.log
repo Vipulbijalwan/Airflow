@@ -1,0 +1,10 @@
+{"timestamp":"2026-02-24T07:16:41.090268Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/myfirstdag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-24T07:17:14.260244Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/myfirstdag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-24T07:17:55.889247Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/myfirstdag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-24T07:18:56.709637Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/myfirstdag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-24T07:20:03.620866Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/myfirstdag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-24T07:20:53.267162Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/myfirstdag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-24T07:21:37.824298Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/myfirstdag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-24T07:22:40.459458Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/myfirstdag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-24T07:23:56.456612Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/myfirstdag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-24T07:27:28.613063Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/myfirstdag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
