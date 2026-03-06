@@ -44,4 +44,4 @@ def xcoms_dag_manual():
     first >> second >> third
 
 
-dag = xcoms_dag_auto()
+dag = xcoms_dag_manual()
