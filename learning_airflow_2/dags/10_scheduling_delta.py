@@ -1,5 +1,5 @@
 from airflow.sdk import dag, task
-from pendulum import datetime
+from pendulum import datetime, duration
 from airflow.timetables.trigger import DeltaTriggerTimetable
 @dag(
     dag_id="first_delta_dag",
